@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <pattern id="pelaya-dots" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="5" cy="5" r="1.2" fill="#0C2340"/>
+      <circle cx="25" cy="5" r="1.2" fill="#0C2340"/>
+      <circle cx="15" cy="15" r="1.2" fill="#0C2340"/>
+      <circle cx="35" cy="15" r="1.2" fill="#0C2340"/>
+      <circle cx="5" cy="25" r="1.2" fill="#0C2340"/>
+      <circle cx="25" cy="25" r="1.2" fill="#0C2340"/>
+      <circle cx="15" cy="35" r="1.2" fill="#0C2340"/>
+      <circle cx="35" cy="35" r="1.2" fill="#0C2340"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#pelaya-dots)"/>
+</svg>

@@ -1,0 +1,213 @@
+[
+  {
+    "id": "quiz-1-matelot",
+    "titre": "Quiz Matelot",
+    "cible_slug": "1-matelot",
+    "score_requis": 70,
+    "questions": [
+      {
+        "type": "QCM",
+        "enonce": "Quel élément fait partie du gréement dormant ?",
+        "bonne_reponse": "Hauban",
+        "options": [
+          "Drisse",
+          "Écoute",
+          "Hauban",
+          "Palans"
+        ],
+        "explication": "Le dormant maintient le mât."
+      },
+      {
+        "type": "VraiFaux",
+        "enonce": "Le gilet 150 N est recommandé dès que l’on sort du port.",
+        "bonne_reponse": "Vrai",
+        "explication": "Sécurité renforcée en mer."
+      },
+      {
+        "type": "QCM",
+        "enonce": "Ordre correct pour un ris à quai ?",
+        "bonne_reponse": "Baisser drisse → frapper points de ris → réétarquer",
+        "options": [
+          "Choquer bordure → hisser drisse → étarquer ris",
+          "Baisser drisse → frapper points de ris → réétarquer",
+          "Tendre hale‑bas → choquer bordure → baisser drisse"
+        ],
+        "explication": "On réduit, on frappe, on réétarque."
+      },
+      {
+        "type": "RéponseCourte",
+        "enonce": "Donne 2 items obligatoires à vérifier avant de sortir.",
+        "bonne_reponse": "Carburant",
+        "explication": "Carburant, eau, batterie, trousse, radeau, VHF."
+      }
+    ]
+  },
+  {
+    "id": "quiz-2-bosco",
+    "titre": "Quiz Bosco",
+    "cible_slug": "2-bosco",
+    "score_requis": 75,
+    "questions": [
+      {
+        "type": "QCM",
+        "enonce": "Au près, quel réglage est correct ?",
+        "bonne_reponse": "Guidant droit et chute fermée",
+        "options": [
+          "Chute très ouverte",
+          "Guidant droit et chute fermée",
+          "Bordure très détendue"
+        ],
+        "explication": "Profil plat pour remonter au vent."
+      },
+      {
+        "type": "QCM",
+        "enonce": "Empannage contrôlé : quel dispositif aide ?",
+        "bonne_reponse": "Retenue de bôme",
+        "options": [
+          "Retenue de bôme",
+          "Plus de hale‑bas",
+          "Tangon au vent"
+        ],
+        "explication": "La retenue stabilise la bôme."
+      },
+      {
+        "type": "VraiFaux",
+        "enonce": "L’effet de pas de l’hélice est plus sensible en marche arrière.",
+        "bonne_reponse": "Vrai",
+        "explication": "Dérive latérale à anticiper."
+      },
+      {
+        "type": "RéponseCourte",
+        "enonce": "Cite 1 consigne lors d’une approche de quai.",
+        "bonne_reponse": "Préparer pare‑battages",
+        "explication": "Aussières prêtes, vitesse maîtrisée."
+      }
+    ]
+  },
+  {
+    "id": "quiz-3-lieutenant",
+    "titre": "Quiz Lieutenant",
+    "cible_slug": "3-lieutenant",
+    "score_requis": 75,
+    "questions": [
+      {
+        "type": "QCM",
+        "enonce": "Dans l’IALA A, les marques bâbord sont :",
+        "bonne_reponse": "Rouges cylindriques",
+        "options": [
+          "Rouges cylindriques",
+          "Vertes coniques",
+          "Rouges coniques"
+        ],
+        "explication": "Europe: bâbord rouge cyl, tribord vert conique."
+      },
+      {
+        "type": "QCM",
+        "enonce": "Le gisement est :",
+        "bonne_reponse": "Angle entre l’axe du bateau et une cible",
+        "options": [
+          "Angle entre l’axe du bateau et une cible",
+          "Cap corrigé des vents",
+          "Variation de profondeur"
+        ],
+        "explication": "À distinguer du relèvement vrai."
+      },
+      {
+        "type": "VraiFaux",
+        "enonce": "Les isobares serrées indiquent du vent fort.",
+        "bonne_reponse": "Vrai",
+        "explication": "Gradient de pression élevé."
+      },
+      {
+        "type": "RéponseCourte",
+        "enonce": "Cite 1 document pour un port de refuge.",
+        "bonne_reponse": "Carte marine",
+        "explication": "Pilote côtier, annuaire des marées…"
+      }
+    ]
+  },
+  {
+    "id": "quiz-4-capitaine",
+    "titre": "Quiz Capitaine",
+    "cible_slug": "4-capitaine",
+    "score_requis": 80,
+    "questions": [
+      {
+        "type": "QCM",
+        "enonce": "Répartition d’un quart de nuit efficace ?",
+        "bonne_reponse": "3x4h",
+        "options": [
+          "2x8h",
+          "3x4h",
+          "4x2h"
+        ],
+        "explication": "Limite la fatigue."
+      },
+      {
+        "type": "QCM",
+        "enonce": "Moteur chauffe : première vérification ?",
+        "bonne_reponse": "Vérifier le refroidissement",
+        "options": [
+          "Changer l’hélice",
+          "Vérifier le refroidissement",
+          "Augmenter le régime"
+        ],
+        "explication": "Crépine, pompe, courroie."
+      },
+      {
+        "type": "VraiFaux",
+        "enonce": "Perte d’électronique = arrêt de la nav automatiquement.",
+        "bonne_reponse": "Faux",
+        "explication": "On bascule en navigation traditionnelle."
+      },
+      {
+        "type": "RéponseCourte",
+        "enonce": "Donne 1 item du briefing sécurité.",
+        "bonne_reponse": "Homme à la mer",
+        "explication": "Incendie, fuite de gaz, voie d’eau, VHF."
+      }
+    ]
+  },
+  {
+    "id": "quiz-5-amiral",
+    "titre": "Quiz Amiral",
+    "cible_slug": "5-amiral",
+    "score_requis": 85,
+    "questions": [
+      {
+        "type": "QCM",
+        "enonce": "Énergie au large : priorité si ressources limitées ?",
+        "bonne_reponse": "Feux de navigation",
+        "options": [
+          "Watermaker",
+          "Pilote automatique",
+          "Feux de navigation"
+        ],
+        "explication": "Sécurité et conformité d’abord."
+      },
+      {
+        "type": "QCM",
+        "enonce": "Fenêtre météo : critère clé ?",
+        "bonne_reponse": "Hauteur significative de vague",
+        "options": [
+          "Hauteur significative de vague",
+          "Température de l’air",
+          "Heure de marée au départ"
+        ],
+        "explication": "Vagues + vent déterminent la pénibilité."
+      },
+      {
+        "type": "VraiFaux",
+        "enonce": "Le RIPAM s’applique aussi en haute mer.",
+        "bonne_reponse": "Vrai",
+        "explication": "Règles internationales."
+      },
+      {
+        "type": "RéponseCourte",
+        "enonce": "Cite 1 élément du grab bag.",
+        "bonne_reponse": "Balise de détresse",
+        "explication": "VHF portable, rations, eau, feux…"
+      }
+    ]
+  }
+]

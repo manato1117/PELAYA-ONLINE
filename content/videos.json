@@ -1,0 +1,82 @@
+[
+  {
+    "id": "video-1",
+    "titre": "Découvrir le voilier : parties et fonctions",
+    "url": "https://youtu.be/pelaya-matelot-1",
+    "niveau": "Matelot",
+    "cours": "1-matelot",
+    "duree": 420
+  },
+  {
+    "id": "video-2",
+    "titre": "Sécurité de base et équipement individuel",
+    "url": "https://youtu.be/pelaya-matelot-2",
+    "niveau": "Matelot",
+    "cours": "1-matelot",
+    "duree": 480
+  },
+  {
+    "id": "video-3",
+    "titre": "Réglages de voiles : allures et profils",
+    "url": "https://youtu.be/pelaya-bosco-1",
+    "niveau": "Bosco",
+    "cours": "2-bosco",
+    "duree": 420
+  },
+  {
+    "id": "video-4",
+    "titre": "Manœuvre de port et prise de ris",
+    "url": "https://youtu.be/pelaya-bosco-2",
+    "niveau": "Bosco",
+    "cours": "2-bosco",
+    "duree": 480
+  },
+  {
+    "id": "video-5",
+    "titre": "Lecture de carte marine et compas",
+    "url": "https://youtu.be/pelaya-lieutenant-1",
+    "niveau": "Lieutenant",
+    "cours": "3-lieutenant",
+    "duree": 420
+  },
+  {
+    "id": "video-6",
+    "titre": "Météo marine : fronts, brises et vagues",
+    "url": "https://youtu.be/pelaya-lieutenant-2",
+    "niveau": "Lieutenant",
+    "cours": "3-lieutenant",
+    "duree": 480
+  },
+  {
+    "id": "video-7",
+    "titre": "Briefing d’équipage et gestion des quarts",
+    "url": "https://youtu.be/pelaya-capitaine-1",
+    "niveau": "Capitaine",
+    "cours": "4-capitaine",
+    "duree": 420
+  },
+  {
+    "id": "video-8",
+    "titre": "Avaries courantes : diagnostic et plans B",
+    "url": "https://youtu.be/pelaya-capitaine-2",
+    "niveau": "Capitaine",
+    "cours": "4-capitaine",
+    "duree": 480
+  },
+  {
+    "id": "video-9",
+    "titre": "Navigation hauturière : route et veille",
+    "url": "https://youtu.be/pelaya-amiral-1",
+    "niveau": "Amiral",
+    "cours": "5-amiral",
+    "duree": 420
+  },
+  {
+    "id": "video-10",
+    "titre": "Maintenance préventive avant grande traversée",
+    "url": "https://youtu.be/pelaya-amiral-2",
+    "niveau": "Amiral",
+    "cours": "5-amiral",
+    "duree": 480
+  }
+]

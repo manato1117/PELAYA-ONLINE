@@ -1,0 +1,10 @@
+:root{--pelaya-navy:#0C2340;--pelaya-beige:#F6F2EA}
+html,body{height:100%}
+body{background:var(--pelaya-beige);color:var(--pelaya-navy)}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.section{background:var(--pelaya-beige)}
+.card{background:white; border:1px dashed var(--pelaya-navy); border-radius:1rem; padding:1rem}
+.bg-dots{background-image:url('/pelaya_pattern.svg'); background-repeat:repeat}
+.prose h2{font-size:1.25rem;margin-top:1rem}
